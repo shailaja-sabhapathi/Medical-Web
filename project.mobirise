@@ -553,7 +553,7 @@
             "showText": true,
             "showButtons": true,
             "inverse": true,
-            "showArrow": true,
+            "showArrow": false,
             "imageSize": "63",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/blur-chart-check-up-curve-415779-1280x853.jpg",
