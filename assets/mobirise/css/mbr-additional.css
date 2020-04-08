@@ -638,6 +638,9 @@ section.form .container {
   text-align: left;
   font-family: 'Lora', serif;
 }
+#header2-a .btn {
+  font-size: 14px;
+}
 #footer1-1g P {
   font-size: 20px;
   color: #ffffff;

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Medical",
-    "currentPage": "speacialities.html",
+    "currentPage": "Contact.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -293,10 +293,10 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
           },
-          "title1": "CALL AT",
+          "title1": "FOR APPOINTMENT &nbsp;CALL &nbsp;US &nbsp;@",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "<b>+91- XXX-XXX-XXXX</b>",
-          "title2": "MAIL&nbsp;",
+          "title2": "MAIL &nbsp;US @",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "<b>Unknown@gxxxx.xxxm</b>",
           "title3": "Web Fonts",
@@ -592,7 +592,7 @@
           },
           "title": "Welcome to Hospital name",
           "text": "Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">About Us</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">About Us</a>",
           "_tags": [
             "Theme"
           ],
@@ -607,6 +607,9 @@
               "text-align": "left",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            ".btn": {
+              "font-size": "14px"
             }
           }
         },
